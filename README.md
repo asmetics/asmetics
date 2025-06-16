@@ -1,7 +1,9 @@
 # 💫About Me :
 🔭 I’m currently working on
 
-Working on completing the PortSwigger Academy practitioner exam, aspiring to become a security researcher.
+- Working on completing the PortSwigger Academy practitioner exam, aspiring to become a security researcher.
+- Working on my NixOS configuration
+- IPINIT - A tool that monitors new connections and automatically does OSINT on them.
 
 👯 I’m looking to collaborate on
 
