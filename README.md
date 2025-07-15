@@ -1,10 +1,6 @@
 # 💫About Me :
 🔭 I’m currently working on
 
-- Working up to doing the PortSwigger Academy practitioner exam, aspiring to become a security researcher.
-- Working on IPINIT - A tool that monitors new connections and automatically does OSINT on them.
-- Working on my webapp for learning SQL and testing SQL injections.
-
 👯 I’m looking to collaborate on
 
 Currently unavailable for any projects, will be open to CTFs in the future.
