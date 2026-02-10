@@ -2,7 +2,7 @@
 
 security researcher & programmer, focusing more on the offensive security side
 
-stirctly ethical
+strictly ethical
 
 ### contact
 
